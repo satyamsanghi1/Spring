@@ -11,4 +11,10 @@ public class DemoController {
 	{
 		return "server is working";
 	}
+	
+	@RequestMapping
+	public String testMethod()
+	{
+		return "hello Satyam site is under progress" ;
+	}
 }
