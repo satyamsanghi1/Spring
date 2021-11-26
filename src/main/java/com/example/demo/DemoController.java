@@ -9,7 +9,7 @@ public class DemoController {
 	@RequestMapping("/hello")
 	public String hello()
 	{
-		return "server is working";
+		return "server is working...";
 	}
 	
 	@RequestMapping("/hitanshu")
