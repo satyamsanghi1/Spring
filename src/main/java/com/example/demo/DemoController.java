@@ -21,6 +21,6 @@ public class DemoController {
 	@RequestMapping
 	public String testMethod()
 	{
-		return "hello Satyam site is under progress" ;
+		return "hello Satyam site is under progressasdas" ;
 	}
 }
