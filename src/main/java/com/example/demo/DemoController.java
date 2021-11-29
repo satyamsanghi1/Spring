@@ -23,9 +23,5 @@ public class DemoController {
 	{
 		return "hello Satyam site is under progress" ;
 	}
-	@RequestMapping
-	public String testMethod2()
-	{
-		return "hello Satyam site is under progress" ;
-	}
+
 }
